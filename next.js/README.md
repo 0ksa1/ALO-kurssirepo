@@ -1,9 +1,6 @@
 ## next.js
 <img src="./images/nextjs.png" alt="next.js starting page" />
 
-
-### Ohjelma
-- **Nimi:** next.js
 - **Kuvaus:** Next.js on React-pohjainen web-ohjelmointiin tarkoitettu ohjelmistokehys.
 - **Toimintaperiaate:** Next.js avulla voit luoda nettisivuprojektin nopeasti hyödyntämällä kehyksen tarjoamia kehitysominaisuuksia.
 - **Käyttökohteet:** Next.js on hyvä työkalu nopeasti latautuvien hakukoneoptimoitujen sivujen tekoon, koska se renderöi nettisivut suoraan palvelimella asiakaspuolen sijaan. Tällöin hakurobotti saa heti valmiiksi renderöidyn html-koodin, joka on helppo indeksoida eikä html-koodin generoimiseen tarvitse käyttää aikaa. Next.js:ää on käytetty esimerkiksi Netflixin käyttöliittymässä. [^next]
